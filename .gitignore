@@ -1,8 +1,11 @@
 # Vagrant
 .vagrant
 
-#nohup
+# nohup
 nohup.out
+
+# SQLite3
+db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
